@@ -1,0 +1,12 @@
+1.) What is SDLC ?
+2.) Types of SDLC Models.
+3.) What is DevOps ?
+4.) Why DevOps is necessary in 2023 ? (trends+advantages)
+5.) Code Management using Git 
+6.) Continuous Intigration using Jenkins
+7.) Containerization using Docker
+8.) Orchestration using Kubernetes
+9.) Configuration management using Ansible
+10.) Developing Cloud Solutions using  AWS.
+
+
